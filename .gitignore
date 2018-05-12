@@ -1,0 +1,8 @@
+*.classpath
+*.project
+*.log
+.settings/
+target/
+webdefault.xml
+*.iml
+.idea/
